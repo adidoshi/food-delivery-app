@@ -23,7 +23,7 @@ const Sidebar = () => {
                 <li className="nav-item mb-3">
                   <Form.Check
                     inline
-                    label="Ascending"
+                    label="Price (low-high)"
                     name="group1"
                     type="radio"
                     id={`inline-1`}
@@ -39,7 +39,7 @@ const Sidebar = () => {
                 <li className="nav-item mb-3">
                   <Form.Check
                     inline
-                    label="Descending"
+                    label="Price (high-low)"
                     name="group1"
                     type="radio"
                     id={`inline-2`}
@@ -55,7 +55,7 @@ const Sidebar = () => {
                 <li>
                   <Form.Check
                     inline
-                    label="Include Out of Stock"
+                    label="Include not available"
                     name="group1"
                     type="checkbox"
                     id={`inline-3`}
