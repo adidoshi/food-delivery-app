@@ -3,10 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "bootstrap/dist/css/bootstrap.css";
+import "bootstrap-icons/font/bootstrap-icons.css";
+import CartContext from './components/context/CartContext';
 
 ReactDOM.render(
   <React.StrictMode>
+    <CartContext>
     <App />
+    </CartContext>
   </React.StrictMode>,
   document.getElementById('root')
 );

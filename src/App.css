@@ -1,38 +1,90 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bold-font {
+  font-weight: bold;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.btn-slide {
+  color: white !important;
+}
+
+.nav-cursor {
+  cursor: pointer;
+}
+
+.sec-img {
+  width: 400px;
+  height: 400px;
+}
+
+.white_block {
+  border: 2px solid white;
+  background-color: whitesmoke;
+  border-radius: 20px;
+  padding: 22px;
+}
+
+.para-heading {
+  color: #EF4444;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 1200px) {
+  .services_image {
+    display: none;
+  }
+  .white_block {
+    width: 100% !important;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@media only screen and (min-device-width: 767px) and (max-device-width: 900px) {
+  .btn-resp {
+    display: none !important;
+  }
+  .con-resp {
+    display: none !important;
+  }
 }
 
-.App-link {
-  color: #61dafb;
+.acc-color {
+  background-color: #F87171 !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.about-img {
+  border-radius: 20px;
+}
+
+.gallery {
+  background-color: #EF4444;
+}
+
+.gallery-heading {
+ text-align: center;
+ padding: 15px;
+ font-size: 35px;
+font-weight: bold;
+}
+
+.white-block {
+  border: 2px solid white;
+  background-color: whitesmoke;
+  border-radius: 20px;
+  padding: 38px;
+}
+
+.cartBox {
+  background-color: gray;
+  color: whitesmoke;
+  height: 500px;
+  padding: 22px
+}
+
+@media all and (device-width: 768px) and (device-height: 1024px) {
+  .ipad-media { display: none;  } 
+  .ipad-media2 {width: 35% !important}
 }
