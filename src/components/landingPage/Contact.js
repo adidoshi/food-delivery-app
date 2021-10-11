@@ -9,7 +9,7 @@ const Contact = () => {
           <div className="text-center white-block">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit.
             Recusandae, pariatur iure debitis alias impedit cum quia mollitia ut
-            animi asperiores.
+            animi asperiores, ure debitis alias.
             <br />
             +91 8888855555
             <br />
