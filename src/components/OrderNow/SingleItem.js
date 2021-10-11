@@ -9,8 +9,8 @@ const SingleItem = (props) => {
   } = useContext(Cart);
   return (
     <>
-      <div className="card mx-auto" style={{ width: "15rem" }}>
-        <img src={props.item.image} className="card-img-top" alt="..." />
+      <div className="card mx-auto iphone-re" style={{ width: "17rem" }}>
+        <img src={props.item.image} className="card-img-top resize" alt="..." />
         <div className="card-body">
           <h6 className="card-title">{props.item.title}</h6>
           <p className="card-text">₹ {props.item.price.split(".")[0]}</p>

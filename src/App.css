@@ -88,3 +88,16 @@ font-weight: bold;
   .ipad-media { display: none;  } 
   .ipad-media2 {width: 35% !important}
 }
+
+.resize {
+  width: 200px;
+  height: 150px;
+}
+
+@media all and (device-width: 320px) and (device-height: 568px) {
+  .iphone-re { width: 15rem !important } 
+}
+
+@media all and (device-width: 1024px) and (device-height: 1366px) {
+  .iphone-re { width: 15rem !important } 
+}

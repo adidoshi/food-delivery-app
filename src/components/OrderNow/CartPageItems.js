@@ -59,9 +59,10 @@ const CartPageItems = () => {
                                 },
                               })
                             }>
-                            {[...Array(elem.offer).keys()].map((x) => (
-                              <option key={x + 1}>{x + 1}</option>
-                            ))}
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
                           </Form.Control>
                         </div>
                         <div className="col-md-2">

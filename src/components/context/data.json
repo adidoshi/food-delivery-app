@@ -1,0 +1,155 @@
+[
+   
+                {
+					"id": 1,
+                    "title":"New Cheese n Corn",
+                    "image":"https://res.cloudinary.com/dtrxs5oj2/image/upload/v1629955356/Food%20App/new_cheese_n_corn_i5kqj5.webp",
+                    "price":"309",
+                    "description":"A delectable combination of sweet & juicy golden corn",
+					"offer": false,
+					"freeDelivery": true,
+					"ratings": 1
+                },
+                {
+                    "id": 2,
+                    "title":"Gardening Spring",
+                    "image":"https://res.cloudinary.com/dtrxs5oj2/image/upload/v1629955294/Food%20App/GardeningSpring_h6o1vs.jpg",
+                    "price":"450",
+                    "description":"Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+					"offer": true,
+					"freeDelivery": true,
+					"ratings": 2
+                },
+                {
+                    "id": 3,
+                    "title":"Chicken Tika",
+                    "image":"https://res.cloudinary.com/dtrxs5oj2/image/upload/v1629955294/Food%20App/ChickenTikka_xq3mqp.jpg",
+                    "price":"579",
+                    "description":"A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese",
+					"offer": true,
+					"freeDelivery": false,
+					"ratings": 3
+                },
+                {
+                    "id": 4,
+                    "title":"Margherita",
+                    "image":"https://res.cloudinary.com/dtrxs5oj2/image/upload/v1629955294/Food%20App/Margherita_ji4g03.jpg",
+                    "price":"250",
+                    "description":"Classic delight with 100% real mozzarella cheese",
+					"offer": true,
+					"freeDelivery": true,
+					"ratings": 4
+                },
+                {
+                    "id": 5,
+                    "title":"Panner & Onion",
+                    "image":"https://res.cloudinary.com/dtrxs5oj2/image/upload/v1629955294/Food%20App/CheesyOnion_c1g1qp.jpg",
+                    "price":"273",
+                    "description":"Creamy Paneer & Onion loaded with mozzarella, cheddar & gouda cheese",
+					"offer": true,
+					"freeDelivery": false,
+					"ratings": 5
+                },
+                {
+                    "id": 6,
+                    "title":"Veg Loaded",
+                    "image":"https://res.cloudinary.com/dtrxs5oj2/image/upload/v1629955293/Food%20App/ItalianPiza_axcv4b.jpg",
+                    "price":"145",
+                    "description":"Tomato, Jalapeno, Corn, Grilled Mushroom & crushed Aranchini Patty in a fresh pan crust",
+					"offer": true,
+					"freeDelivery": true,
+					"ratings": 1
+
+                },
+   
+                {
+                    "id": 7,
+                    "title":"Veg Zinger",
+                    "image":"https://res.cloudinary.com/dtrxs5oj2/image/upload/v1629956085/Food%20App/Burger1_vfvokr.jpg",
+                    "price":"119",
+                    "description":"Signature veg burger with crispy patties, veggies & a tangy sauce",
+					"offer": true,
+					"freeDelivery": true,
+					"ratings": 2
+                },
+                {
+                    "id": 8,
+                    "title":"Loaded Cheese",
+                    "image":"https://res.cloudinary.com/dtrxs5oj2/image/upload/v1629956085/Food%20App/BurgerLoadedCheese_iijdfx.jpg",
+                    "price":"149",
+                    "description":"Cheeseburger is topped with a tangy pickle, chopped onions, ketchup, mustard, and a slice of melty American cheese",
+					"offer": true,
+					"freeDelivery": false,
+					"ratings": 3
+                },
+                {
+                    "id": 9,
+                    "title":"Tandori Zinger",
+                    "image":"https://res.cloudinary.com/dtrxs5oj2/image/upload/v1629956085/Food%20App/burgerkfc-zinger_xjjkq8.jpg",
+                    "price":"159",
+                    "description":"Chicken zinger with a delicious tandoori sauce",
+					"offer": false,
+					"freeDelivery": false,
+					"ratings": 4
+                },
+                {
+                    "id": 10,
+                    "title":"Double Chicken",
+                    "image":"https://res.cloudinary.com/dtrxs5oj2/image/upload/v1629956085/Food%20App/KFC-Double-Down-Burger_alzf6e.jpg",
+                    "price":"429",
+                    "description":"Double the chicken fun with a burger with two juicy crispy chicken fillet with fresh lettuce and creamy sauces. No bun! Seriously.",
+					"offer": true,
+					"freeDelivery": true,
+					"ratings": 5
+                },
+                {
+                    "id": 11,
+                    "title":"Ferrero Rosher Shake",
+                    "image":"https://www.rhubarbarians.com/wp-content/uploads/2020/01/Wine-shake-recipe-web1.jpg",
+                    "price":"319",
+                    "description":"Signature coffee of the cafe, well served with toppings",
+					"offer": true,
+					"freeDelivery": true,
+					"ratings": 1
+                },
+                {
+                    "id": 12,
+                    "title":"Normal Cold Coffee",
+                    "image":"https://images.unsplash.com/photo-1546173159-315724a31696?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=320&ixid=MnwxfDB8MXxyYW5kb218MHx8c2hha2V8fHx8fHwxNjMzODk0NDkz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=420",
+                    "price":"149",
+                    "description":"Basic thick cold coffee for our daily visitors",
+                    "offer": true,
+					"freeDelivery": false,
+					"ratings": 2
+                },
+                {
+                    "id": 13,
+                    "title":"Mocha Cafe",
+                    "image":"https://topsecretrecipes.com/images/product/sonic-drive-in-peanut-butter-shake-copycat-recipe.jpg",
+                    "price":"159",
+                    "description":"Authentic mocha you like",
+					"offer": true,
+					"freeDelivery": true,
+					"ratings": 3
+                },
+                {
+                    "id": 14,
+                    "title":"Monster Shake",
+                    "image":"https://images-na.ssl-images-amazon.com/images/I/61IqojR-ZiS.jpg",
+                    "price":"199",
+                    "description":"Ice in the heat, enjoy it",
+					"offer": false,
+					"freeDelivery": false,
+					"ratings": 4
+                },
+                {
+                    "id": 15,
+                    "title":"White Shake",
+                    "image":"https://images.unsplash.com/photo-1609090823336-e781923d1cb3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=320&ixid=MnwxfDB8MXxyYW5kb218MHx8c2hha2V8fHx8fHwxNjMzOTQwODQ0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=420",
+                    "price":"256",
+                    "description":"Ice in the heat, enjoy it",
+					"offer": true,
+					"freeDelivery": true,
+					"ratings": 3
+                }
+]

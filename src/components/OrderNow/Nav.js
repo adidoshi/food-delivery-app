@@ -13,7 +13,7 @@ const Nav = () => {
       <nav className="navbar navbar-expand-md sticky-top navbar-light bg-light">
         <div className="container-fluid">
           <button
-            className="navbar-toggler"
+            className="navbar-toggler mb-2"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#collapseNavbar">
@@ -21,14 +21,14 @@ const Nav = () => {
           </button>
           <Link
             className="navbar-brand m-auto bold-font"
-            style={{ color: "/EF4444" }}
+            style={{ color: "red" }}
             to="/">
             SPLASH CAFE
           </Link>
           <div className="navbar-collapse collapse" id="collapseNavbar">
             <form className="d-flex m-auto">
               <input
-                className="form-control me-2"
+                className="form-control me-2 mb-1"
                 type="search"
                 placeholder="Search"
                 aria-label="Search"

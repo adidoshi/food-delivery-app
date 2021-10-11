@@ -11,7 +11,7 @@ const CartPageNav = () => {
             className="navbar-brand m-auto bold-font"
             style={{ color: "/EF4444" }}
             to="/orderNow">
-            <i className="bi bi-arrow-left-square-fill"></i> SHOPPING CART
+            <i className="bi bi-arrow-left-square-fill"></i> BACK TO MENU
           </Link>
         </div>
       </nav>
