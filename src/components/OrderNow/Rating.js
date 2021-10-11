@@ -7,7 +7,6 @@ const Rating = (props) => {
         return (
           <span key={i} onClick={() => {
               props.click(i)
-              console.log('clicked')
               }} style={props.style}>
             {
               <i
