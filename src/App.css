@@ -90,8 +90,8 @@ font-weight: bold;
 }
 
 .resize {
-  width: 200px;
-  height: 150px;
+  width: 270px;
+  height: 160px;
 }
 
 @media all and (device-width: 320px) and (device-height: 568px) {
